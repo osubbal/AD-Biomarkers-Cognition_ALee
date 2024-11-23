@@ -15,7 +15,7 @@ Goal: Conduct relative importance analyses and hierarchical linear regressions t
 Original Usage: [all data obtained from ADNI] Predictor variables = demographic variables, APOE4 status, vascular covariates, AD biomarker status, plasma NfL, CSF GAP-43, CSF sTREM2, WMH volume  Outputs = composite scores of episodic memory and executive function
 
 How to Use: 
-- To run this code, you will the attached R code and ADNI data
+- To run this code, you will the attached R code and ADNI data (openly available at  https://adni.loni.usc.edu/)
 
 # Further Reading
 - Crane PK, Carle A, Gibbons LE, et al. Development and assessment of a composite score for memory in the Alzheimer’s Disease Neuroimaging Initiative (ADNI). Brain Imaging Behav. 2012;6(4):502-516. doi:10.1007/s11682-012-9186-z
