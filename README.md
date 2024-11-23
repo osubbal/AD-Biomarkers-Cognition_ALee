@@ -11,7 +11,7 @@
 
 # Usage
 
-Goal: Conduct relative importance analyses and hierarchical linear regressions to examine the association between biomarkers of neuronal and glial dysfunction, WMH volume, and cognition.
+Goal: Conduct relative importance analyses and hierarchical linear regressions to examine associations between biomarkers of neuronal and glial dysfunction, WMH volume, and cognition.
 Original Usage: [all data obtained from ADNI] Predictor variables = demographic variables, APOE4 status, vascular covariates, AD biomarker status, plasma NfL, CSF GAP-43, CSF sTREM2, WMH volume  Outputs = composite scores of episodic memory and executive function
 
 How to Use: 
